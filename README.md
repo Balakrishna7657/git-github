@@ -1,2 +1,2 @@
 # git-github
-Thhis is for beging of the project
+Thhis is for begining of the project
